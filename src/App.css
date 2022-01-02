@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+nav{
+  background-color: #61dafb;
+  font-size: larger;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+.weather{
+  margin:1rem;
+
+}
+
